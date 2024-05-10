@@ -85,9 +85,6 @@
 </head>
 <body>
      <h1>Welcome to the Company's Home Page</h1>
-<div class="container">
-    <a href="approve_application.php" class="button">Approve/Deny Applications</a>
-</div>
 
 
     <div class="container">
